@@ -1,0 +1,3 @@
+{
+    "dl": "http://PATH_TO_MASTER_RAW_FILES/crates/{crate}/{crate}-{version}.crate"
+}
